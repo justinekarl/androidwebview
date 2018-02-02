@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notipi</string>
+    <string name="action_settings">Settings</string>
+    <string name="uploads_disabled">File uploads are disabled.</string>
+    <string name="choose_upload">Choose file for upload</string>
+</resources>
